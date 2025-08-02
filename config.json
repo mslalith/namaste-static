@@ -3,6 +3,7 @@
     "epics": [
       {
         "id": "bhagavad_gita",
+        "title": "Bhagavad Gita",
         "dataUrl": "https://raw.githubusercontent.com/mslalith/namaste-static/refs/heads/main/epics/bhagavad_gita",
         "checksum": "309f8a6a64dac8fdb30d93581b126d222b2a63ff4e8e6fe321ba2bd014e54174",
         "avatarUrl": "https://raw.githubusercontent.com/mslalith/namaste-static/refs/heads/main/graphic/epics/bhagavad_gita/poster.png"

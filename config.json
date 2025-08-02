@@ -8,5 +8,10 @@
         "avatarUrl": "https://raw.githubusercontent.com/mslalith/namaste-static/refs/heads/main/graphic/epics/bhagavad_gita/poster.png"
       }
     ]
+  },
+  "quotes": {
+    "id": "quotes",
+    "dataUrl": "https://raw.githubusercontent.com/mslalith/namaste-static/refs/heads/main/others/quotes",
+    "checksum": "d38f5a906d0d411ed68d45181d46535804cd9174d10c38745b3be6e463b1166c"
   }
 }
